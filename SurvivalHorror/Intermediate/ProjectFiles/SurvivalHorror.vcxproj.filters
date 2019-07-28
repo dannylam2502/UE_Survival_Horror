@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SurvivalHorror.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{23573780-349F-46BB-B181-F2AD1A0FB634}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SurvivalHorror.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SurvivalHorrorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{108F63AD-9DF7-45AA-AEB5-839DB076BF13}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SurvivalHorror">
+      <UniqueIdentifier>{C48E629E-AAEC-4FAB-919C-AB65F20AFA42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SurvivalHorror\SurvivalHorror.Build.cs">
+      <Filter>Source\SurvivalHorror</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SurvivalHorror\SurvivalHorror.cpp">
+      <Filter>Source\SurvivalHorror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalHorror\SurvivalHorror.h">
+      <Filter>Source\SurvivalHorror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalHorror\SurvivalHorrorCharacter.cpp">
+      <Filter>Source\SurvivalHorror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalHorror\SurvivalHorrorCharacter.h">
+      <Filter>Source\SurvivalHorror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalHorror\SurvivalHorrorGameMode.cpp">
+      <Filter>Source\SurvivalHorror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalHorror\SurvivalHorrorGameMode.h">
+      <Filter>Source\SurvivalHorror</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

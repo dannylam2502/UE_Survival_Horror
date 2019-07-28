@@ -1,0 +1,6 @@
+albm : RGB Albedo, with Metalness in the alpha channel.
+nrmr : RGB Normal, with Roughness in the alpha channel.
+atos : R = Alpha (transparency), G = Translucency, B = Occlusion, with Subsurface scattering (SSS) in the alpha channel.
+
+
+Some models may use different textures, I've come across a few already.
