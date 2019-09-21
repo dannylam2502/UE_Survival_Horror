@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I "D:\Projects\Unreal Projects\SurvivalHorror\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalHorror"
-/I "D:\Projects\Unreal Projects\SurvivalHorror\Source"
-/I "D:\Projects\Unreal Projects\SurvivalHorror\Source\SurvivalHorror"
+/I "D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Intermediate\Build\Win64\UE4Editor\Inc\SurvivalHorror"
+/I "D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Source"
+/I "D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Source\SurvivalHorror"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -438,12 +438,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\Projects\Unreal Projects\SurvivalHorror\Intermediate\Build\Win64\SurvivalHorrorEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Projects\Unreal Projects\SurvivalHorror\Intermediate\Build\Win64\SurvivalHorrorEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Projects\Unreal Projects\SurvivalHorror\Intermediate\Build\Win64\SurvivalHorrorEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Projects\Unreal Projects\SurvivalHorror\Source\SurvivalHorror\SurvivalHorrorGameMode.cpp"
-/FI"D:\Projects\Unreal Projects\SurvivalHorror\Intermediate\Build\Win64\UE4Editor\Development\SurvivalHorror\Definitions.SurvivalHorror.h"
-/Fo"D:\Projects\Unreal Projects\SurvivalHorror\Intermediate\Build\Win64\UE4Editor\Development\SurvivalHorror\SurvivalHorrorGameMode.cpp.obj"
+/FI"D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Intermediate\Build\Win64\SurvivalHorrorEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Intermediate\Build\Win64\SurvivalHorrorEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Intermediate\Build\Win64\SurvivalHorrorEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Source\SurvivalHorror\SurvivalHorrorGameMode.cpp"
+/FI"D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Intermediate\Build\Win64\UE4Editor\Development\SurvivalHorror\Definitions.SurvivalHorror.h"
+/Fo"D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Intermediate\Build\Win64\UE4Editor\Development\SurvivalHorror\SurvivalHorrorGameMode.cpp.obj"
 /TP
 /GR-
 /W4

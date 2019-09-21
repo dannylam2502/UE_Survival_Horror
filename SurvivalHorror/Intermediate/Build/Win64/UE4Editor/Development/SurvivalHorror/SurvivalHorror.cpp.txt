@@ -1,2 +1,2 @@
-D:\Projects\Unreal Projects\SurvivalHorror\Intermediate\Build\Win64\UE4Editor\Development\SurvivalHorror\Definitions.SurvivalHorror.h
-d:\projects\unreal projects\survivalhorror\source\survivalhorror\SurvivalHorror.h
+D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Intermediate\Build\Win64\UE4Editor\Development\SurvivalHorror\Definitions.SurvivalHorror.h
+d:\projects\unreal projects\ue_survival_horror\survivalhorror\source\survivalhorror\SurvivalHorror.h

@@ -1,3 +1,3 @@
-D:\Projects\Unreal Projects\SurvivalHorror\Source\SurvivalHorror\SurvivalHorror.Build.cs
-D:\Projects\Unreal Projects\SurvivalHorror\Source\SurvivalHorror.Target.cs
-D:\Projects\Unreal Projects\SurvivalHorror\Source\SurvivalHorrorEditor.Target.cs
+D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Source\SurvivalHorror\SurvivalHorror.Build.cs
+D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Source\SurvivalHorror.Target.cs
+D:\Projects\Unreal Projects\UE_Survival_Horror\SurvivalHorror\Source\SurvivalHorrorEditor.Target.cs
